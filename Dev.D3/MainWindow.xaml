@@ -12,7 +12,7 @@
         </Grid.ColumnDefinitions>
         <TabControl x:Name="tabControl" HorizontalAlignment="Left" Margin="10,10,0,0" Width="498" Height="394" VerticalAlignment="Top" SelectionChanged="tabControl_SelectionChanged" >
             <TabItem Header="Bot Run">
-                <Grid Background="#FFE5E5E5">
+                <Grid Background="#FFE5E5E5"> 
                     <ListView x:Name="listView" HorizontalAlignment="Left" Height="246" Margin="10,10,0,0" VerticalAlignment="Top" Width="472">
                         <ListView.View>
                             <GridView>
