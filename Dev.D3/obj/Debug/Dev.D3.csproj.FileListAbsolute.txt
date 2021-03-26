@@ -1,0 +1,5 @@
+D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\obj\Debug\MainWindow.g.cs
+D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\obj\Debug\App.g.cs
+D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\obj\Debug\Dev.D3_MarkupCompile.cache
+D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\obj\Debug\Dev.D3_MarkupCompile.lref
+D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\obj\Debug\Dev.D3.csprojAssemblyReference.cache

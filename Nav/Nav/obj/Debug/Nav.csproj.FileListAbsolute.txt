@@ -1,0 +1,6 @@
+D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\bin\Debug\Nav.dll.config
+D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\bin\Debug\Nav.dll
+D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\bin\Debug\Nav.pdb
+D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Debug\Nav.csproj.CoreCompileInputs.cache
+D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Debug\Nav.dll
+D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Debug\Nav.pdb

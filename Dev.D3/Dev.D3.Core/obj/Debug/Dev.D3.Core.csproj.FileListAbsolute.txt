@@ -1,0 +1,2 @@
+D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\Dev.D3.Core\obj\Debug\Dev.D3.Core.csprojAssemblyReference.cache
+D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\Dev.D3.Core\obj\Debug\Dev.D3.Core.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.D3.Assets\obj\x86\Debug\Enigma.D3.Assets.csprojAssemblyReference.cache
+D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.D3.Assets\obj\x86\Debug\Enigma.D3.Assets.csproj.CoreCompileInputs.cache
