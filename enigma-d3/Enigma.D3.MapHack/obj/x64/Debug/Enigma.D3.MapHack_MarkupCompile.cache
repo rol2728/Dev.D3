@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.D3.MapHack\obj\x64\Debug\
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.MapHack\obj\x64\Debug\
 Enigma
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 21750729120
 
 19-1444736025
-161732209810
+16-1262025132
 D3\MapHack\Minimap.xaml;D3\MapHack\Shell.xaml;
 
 False

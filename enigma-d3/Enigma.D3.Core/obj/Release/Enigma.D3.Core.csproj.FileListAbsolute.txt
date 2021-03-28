@@ -4,3 +4,9 @@ D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.D3.Core\obj\Release\En
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.D3.Core\obj\Release\Enigma.D3.Core.csproj.CoreCompileInputs.cache
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.D3.Core\obj\Release\Enigma.D3.Core.dll
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.D3.Core\obj\Release\Enigma.D3.Core.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Core\bin\Release\Enigma.D3.Core.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Core\bin\Release\Enigma.D3.Core.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Core\obj\Release\Enigma.D3.Core.csprojAssemblyReference.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Core\obj\Release\Enigma.D3.Core.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Core\obj\Release\Enigma.D3.Core.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Core\obj\Release\Enigma.D3.Core.pdb

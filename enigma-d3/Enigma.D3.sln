@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enigma.D3.Core", "Enigma.D3.Core\Enigma.D3.Core.csproj", "{E01F9C34-F404-48DC-92E2-991DA7ADF9EB}"
 EndProject
@@ -20,6 +20,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nav", "..\Nav\Nav\Nav.csproj", "{6A0A0A9F-86EA-4B84-BDE0-C93DCF95F828}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nav.D3", "..\Nav\Nav.D3\Nav.D3.csproj", "{964CEC1A-D2A6-40D8-A2C3-5CFF6F534316}"
+	ProjectSection(ProjectDependencies) = postProject
+		{23848103-7DC0-4AB0-958F-B8793FFD1F2D} = {23848103-7DC0-4AB0-958F-B8793FFD1F2D}
+		{D8B60512-F922-42C1-BEC2-6FAC42CE6315} = {D8B60512-F922-42C1-BEC2-6FAC42CE6315}
+		{3A385F29-42E2-4CAF-B1F2-2A1A7B90A971} = {3A385F29-42E2-4CAF-B1F2-2A1A7B90A971}
+		{E01F9C34-F404-48DC-92E2-991DA7ADF9EB} = {E01F9C34-F404-48DC-92E2-991DA7ADF9EB}
+		{4B2BF057-3425-4520-8535-3372D330C653} = {4B2BF057-3425-4520-8535-3372D330C653}
+		{6A0A0A9F-86EA-4B84-BDE0-C93DCF95F828} = {6A0A0A9F-86EA-4B84-BDE0-C93DCF95F828}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshViewer", "..\Nav\NavMeshViewer\NavMeshViewer.csproj", "{5C67D21F-E477-41B5-9556-D4EF06E4E994}"
 EndProject
@@ -259,5 +267,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E88778D-AC87-470B-92B3-80BE269B855F}
 	EndGlobalSection
 EndGlobal

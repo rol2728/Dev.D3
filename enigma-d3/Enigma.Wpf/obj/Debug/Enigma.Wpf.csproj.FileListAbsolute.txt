@@ -4,3 +4,9 @@ D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Wpf\obj\Debug\Enigma.W
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Wpf\obj\Debug\Enigma.Wpf.dll
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Wpf\obj\Debug\Enigma.Wpf.pdb
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Wpf\obj\Debug\Enigma.Wpf.csprojAssemblyReference.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\bin\Debug\Enigma.Wpf.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\bin\Debug\Enigma.Wpf.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\obj\Debug\Enigma.Wpf.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\obj\Debug\Enigma.Wpf.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\obj\Debug\Enigma.Wpf.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\obj\Debug\Enigma.Wpf.csprojAssemblyReference.cache

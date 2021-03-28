@@ -3,3 +3,38 @@ D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\obj\Debug\App.g.cs
 D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\obj\Debug\Dev.D3_MarkupCompile.cache
 D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\obj\Debug\Dev.D3_MarkupCompile.lref
 D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\obj\Debug\Dev.D3.csprojAssemblyReference.cache
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Dev.D3.exe.config
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Dev.D3.exe
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Dev.D3.pdb
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Dev.D3.Core.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.D3.Assets.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.D3.Assets.MemoryExtensions.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.D3.Core.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.D3.Memory.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.Memory.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Nav.D3.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Nav.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\SharpDX.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\TreeSharp.dll
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.D3.Assets.MemoryExtensions.pdb
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.D3.Assets.pdb
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.D3.Core.pdb
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.D3.Memory.pdb
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Enigma.Memory.pdb
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Nav.D3.pdb
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Nav.pdb
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Nav.dll.config
+E:\개발\Dev.D3\Dev.D3\bin\Debug\Dev.D3.Core.pdb
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3.csprojAssemblyReference.cache
+E:\개발\Dev.D3\Dev.D3\obj\Debug\MainWindow.g.cs
+E:\개발\Dev.D3\Dev.D3\obj\Debug\App.g.cs
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3_MarkupCompile.cache
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3_MarkupCompile.lref
+E:\개발\Dev.D3\Dev.D3\obj\Debug\MainWindow.baml
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3.g.resources
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3.Properties.Resources.resources
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3.csproj.GenerateResource.cache
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3.csproj.CopyComplete
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3.exe
+E:\개발\Dev.D3\Dev.D3\obj\Debug\Dev.D3.pdb

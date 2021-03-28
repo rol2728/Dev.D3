@@ -1,2 +1,26 @@
 D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\Dev.D3.Core\obj\Debug\Dev.D3.Core.csprojAssemblyReference.cache
 D:\0. 개발프로그램\GitRepos\Dev.D3\Dev.D3\Dev.D3.Core\obj\Debug\Dev.D3.Core.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Dev.D3.Core.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Dev.D3.Core.pdb
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.D3.Assets.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.D3.Assets.MemoryExtensions.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.D3.Core.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.D3.Memory.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.Memory.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Nav.D3.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Nav.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\SharpDX.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\TreeSharp.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.D3.Assets.MemoryExtensions.pdb
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.D3.Assets.pdb
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.D3.Core.pdb
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.D3.Memory.pdb
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Enigma.Memory.pdb
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Nav.D3.pdb
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Nav.pdb
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\bin\Debug\Nav.dll.config
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\obj\Debug\Dev.D3.Core.csprojAssemblyReference.cache
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\obj\Debug\Dev.D3.Core.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\obj\Debug\Dev.D3.Core.csproj.CopyComplete
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\obj\Debug\Dev.D3.Core.dll
+E:\개발\Dev.D3\Dev.D3\Dev.D3.Core\obj\Debug\Dev.D3.Core.pdb

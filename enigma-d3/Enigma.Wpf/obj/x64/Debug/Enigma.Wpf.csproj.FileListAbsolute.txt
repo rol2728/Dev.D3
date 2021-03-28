@@ -3,3 +3,8 @@ D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Wpf\bin\x64\Debug\Enig
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Wpf\obj\x64\Debug\Enigma.Wpf.csproj.CoreCompileInputs.cache
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Wpf\obj\x64\Debug\Enigma.Wpf.dll
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Wpf\obj\x64\Debug\Enigma.Wpf.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\bin\x64\Debug\Enigma.Wpf.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\bin\x64\Debug\Enigma.Wpf.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\obj\x64\Debug\Enigma.Wpf.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\obj\x64\Debug\Enigma.Wpf.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.Wpf\obj\x64\Debug\Enigma.Wpf.pdb

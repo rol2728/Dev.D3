@@ -5,3 +5,10 @@ D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Release\Nav.csprojAssemblyR
 D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Release\Nav.csproj.CoreCompileInputs.cache
 D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Release\Nav.dll
 D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Release\Nav.pdb
+E:\개발\Dev.D3\Nav\Nav\bin\Release\Nav.dll.config
+E:\개발\Dev.D3\Nav\Nav\bin\Release\Nav.dll
+E:\개발\Dev.D3\Nav\Nav\bin\Release\Nav.pdb
+E:\개발\Dev.D3\Nav\Nav\obj\Release\Nav.csprojAssemblyReference.cache
+E:\개발\Dev.D3\Nav\Nav\obj\Release\Nav.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\Nav\Nav\obj\Release\Nav.dll
+E:\개발\Dev.D3\Nav\Nav\obj\Release\Nav.pdb

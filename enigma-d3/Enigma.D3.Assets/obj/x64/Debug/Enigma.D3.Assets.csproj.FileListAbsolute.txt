@@ -1,1 +1,12 @@
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.D3.Assets\obj\x64\Debug\Enigma.D3.Assets.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\bin\x64\Debug\Enigma.D3.Assets.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\bin\x64\Debug\Enigma.D3.Assets.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\bin\x64\Debug\Enigma.D3.Core.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\bin\x64\Debug\Enigma.Memory.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\bin\x64\Debug\Enigma.D3.Core.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\bin\x64\Debug\Enigma.Memory.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\obj\x64\Debug\Enigma.D3.Assets.csprojAssemblyReference.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\obj\x64\Debug\Enigma.D3.Assets.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\obj\x64\Debug\Enigma.D3.Assets.csproj.CopyComplete
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\obj\x64\Debug\Enigma.D3.Assets.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.D3.Assets\obj\x64\Debug\Enigma.D3.Assets.pdb

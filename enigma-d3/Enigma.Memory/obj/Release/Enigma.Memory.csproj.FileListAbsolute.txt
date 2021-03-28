@@ -1,3 +1,11 @@
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Memory\obj\Release\Enigma.Memory.csproj.CoreCompileInputs.cache
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Memory\obj\Release\Enigma.Memory.dll
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Memory\obj\Release\Enigma.Memory.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\bin\Release\Enigma.Memory.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\bin\Release\Enigma.Memory.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Release\Enigma.Memory.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Release\Enigma.Memory.il
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Release\Enigma.Memory.res
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Release\Enigma.Memory.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Release\Enigma.Memory.pdb

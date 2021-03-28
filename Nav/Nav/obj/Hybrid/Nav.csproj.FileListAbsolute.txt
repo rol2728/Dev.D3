@@ -4,3 +4,9 @@ D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\bin\Hybrid\Nav.pdb
 D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Hybrid\Nav.csproj.CoreCompileInputs.cache
 D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Hybrid\Nav.dll
 D:\0. 개발프로그램\GitRepos\Dev.D3\Nav\Nav\obj\Hybrid\Nav.pdb
+E:\개발\Dev.D3\Nav\Nav\bin\Hybrid\Nav.dll.config
+E:\개발\Dev.D3\Nav\Nav\bin\Hybrid\Nav.dll
+E:\개발\Dev.D3\Nav\Nav\bin\Hybrid\Nav.pdb
+E:\개발\Dev.D3\Nav\Nav\obj\Hybrid\Nav.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\Nav\Nav\obj\Hybrid\Nav.dll
+E:\개발\Dev.D3\Nav\Nav\obj\Hybrid\Nav.pdb

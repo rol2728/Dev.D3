@@ -63,7 +63,7 @@ namespace Enigma.D3
 		[ThreadStatic]
 		private static Engine _current;
 
-		public static readonly Version SupportedVersion = new Version(2, 3, 0, 33567);
+		public static readonly Version SupportedVersion = new Version(2, 6, 10, 7911);
 
 		public static Engine Create()
 		{
@@ -117,9 +117,9 @@ namespace Enigma.D3
 		public Engine(IMemory memory)
 		{
 			base.Initialize(memory, 0);
-			if (memory.Reader is IHasMainModuleVersion)
-				EnsureSupportedProcessVersion();
-			_lastCreated = this;
+            if (memory.Reader is IHasMainModuleVersion)
+                EnsureSupportedProcessVersion();
+            _lastCreated = this;
 		}
 
 		private void EnsureSupportedProcessVersion()

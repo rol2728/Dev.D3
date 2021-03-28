@@ -2,3 +2,12 @@ D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigm
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigma.Memory.dll
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigma.Memory.pdb
 D:\0. 개발프로그램\GitRepos\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigma.Memory.csprojAssemblyReference.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\bin\Debug\Enigma.Memory.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\bin\Debug\Enigma.Memory.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigma.Memory.csproj.CoreCompileInputs.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigma.Memory.il
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigma.Memory.res
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigma.Memory.dll
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigma.Memory.pdb
+E:\개발\Dev.D3\enigma-d3\Enigma.Memory\obj\Debug\Enigma.Memory.csprojAssemblyReference.cache
